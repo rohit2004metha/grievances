@@ -1,2 +1,2 @@
 # grievances
-A simple try at CRUD using Dotnet framework with React
+A simple try at CRUD using Dotnet framework with React.
