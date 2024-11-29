@@ -15,7 +15,7 @@ notes
 *.dmg
 *.app
 
-# content below from: https://github.com/github/gitignore/blob/main/Global/macOS.gitignore
+# content below from: https://github.com/rohit2004metha/grievances
 # General
 .DS_Store
 .AppleDouble
